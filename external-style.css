@@ -1,0 +1,75 @@
+/* Reseting default user-agents /*
+
+   <style>
+        
+    body {
+        font-family: 'Libre Baskerville', Baskerville, Georgia, 'Times New Roman', serif;
+        background: #fcf4dc;
+        color: #555555;
+        padding: 20px;
+        }
+        
+    h1, { 
+        font-size: 36px;
+        text-transform: uppercase;
+        letter-spacing: 4px;        
+        padding: 20px 40px 30px 70px
+        }
+    h2 {
+        font-size: 28px;
+        padding-bottom: 20px;
+        font-size: 36px;
+        }
+        
+        h1, h2, h3 {
+            font-weight: normal;
+            text-align: center;
+            margin: 10px 0;
+            }
+       
+    .Intro {
+            font-style: italic;
+            font-size: 18px;
+            text-align: center;
+            margin-top: 30px;
+            }
+
+    .Subtitle{
+            font-style: italic
+            }
+  
+        a {
+        color: red;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        }
+    
+    a:hover {
+        text-decoration: underline;
+        color: navy;        
+        }
+        
+     nav ul {
+         text-align: center;
+         list-style-type: none
+        }
+        
+        nav ul li {
+            display: inline;
+            margin: 10px;
+        }
+        nav {
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+        }
+    
+       section {
+           padding-bottom: 40px
+       }
+       
+        img {
+            display: block;
+            margin: auto;
+        }
+            
