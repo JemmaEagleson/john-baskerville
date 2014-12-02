@@ -7,9 +7,10 @@ AAD115 John Baskerville Project
 
 <h2>Version 1</h2>
 <ul>
-<li>[Version 1](https://JemmaEagleson.github.io/john-baskerville/version-1.html) </li>
+<li> [Version 1](https://JemmaEagleson.github.io/john-baskerville/version-1.html)</li>
+
 In Version 1 we marked up a plain text file as an HTML5 page in brackets.
-</ul>
+
 
 Version 2
 =========
