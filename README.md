@@ -19,22 +19,22 @@ In Version 2 I added images and list items to my page.
 In Version 3 I mended the page structure and added more links within the page such as links to external pages and mailto links.
 
 <h3>Version 4</h3>
-[Version 4](https://JemmaEagleson.github.io/john-baskerville/Version-4.html)
+- [Version 4](https://JemmaEagleson.github.io/john-baskerville/Version-4.html)
 
 In Version 4 I added some internal CSS.
 
 <h3>Version 5</h3>
-[Version 5](https://JemmaEagleson.github.io/john-baskerville/Version-5.html)
+- [Version 5](https://JemmaEagleson.github.io/john-baskerville/Version-5.html)
 
 In Version 5 I added in some custom CSS.
 
 <h3>Version 6</h3>
-[Version 6](https://JemmaEagleson.github.io/john-baskerville/Version-6.html)
+- [Version 6](https://JemmaEagleson.github.io/john-baskerville/Version-6.html)
 
 In Version 6 I moved the styles to an External Stylesheet and added the Baskerville font from Google Fonts.
 
 <h3>Version 7</h3>
-[Version 7](https://JemmaEagleson.github.io/john-baskerville/Version-7.html)
+- [Version 7](https://JemmaEagleson.github.io/john-baskerville/Version-7.html)
 
 In Version 7 I restyled the page and added some more css. 
 
