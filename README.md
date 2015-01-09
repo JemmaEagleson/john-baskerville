@@ -34,4 +34,7 @@ In Version 5 I added in some custom CSS.
 In Version 6 I moved the styles to an External Stylesheet and added the Baskerville font from Google Fonts.
 
 <h3>Version 7</h3>
+[Version 7](https://JemmaEagleson.github.io/john-baskerville/Version-7.html)
+
+In Version 7 I restyled the page and added some more css. 
 
