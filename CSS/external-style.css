@@ -54,7 +54,9 @@
         text-decoration: none;
         text-transform: uppercase;
         letter-spacing: 2px;
-        font-size: 22px
+        font-size: 20px;
+        font-style: normal
+            
         }
     
     a:hover {
@@ -85,12 +87,15 @@
             margin: auto;
         }
             
+footer {font-size: 5px;
+}
 
  p {
  font-size: 24px;
  
  }
 
+ul {}
 
 
 .circular1 {
